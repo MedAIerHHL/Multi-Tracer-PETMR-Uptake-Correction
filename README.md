@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction" alt="visitor badge">
-  <a href="https://github.com/MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction/stargazers"><img src="https://img.shields.io/github/stars/MedAIerHHL/Multi-Tracer-PETMR-Uptake-Correction?style=flat&logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/ZAC0713/Multi-Tracer-PETMR-Uptake-Correction/stargazers"><img src="https://img.shields.io/github/stars/ZAC0713/Multi-Tracer-PETMR-Uptake-Correction?style=flat&logo=github" alt="GitHub stars"></a>
 </p>
 
 ## News
 
-- Multi-tracer PET-MR uptake correction work has been accepted by MICCAI 2025.
-- A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease has been provisionally accepted by npj Digital Medicine.
+- Multi-tracer PET-MR uptake correction work has been accepted by **MICCAI 2025, Early Accpet, top 9%**.
+- A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease has been provisionally accepted by **npj Digital Medicine**.
 
 ## Paper
 
